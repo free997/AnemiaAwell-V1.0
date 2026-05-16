@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27854593/README.md)
-# AnemiaAwell-V1.0# AnemiaAwell V1.0
+# AnemiaAwell-V1.0
 
 **Non-Invasive Anemia Screening via Photoplethysmography (PPG) & AI**
 
@@ -59,20 +59,6 @@ A small-scale clinical validation was completed using:
 - Additional calibration via open-access datasets
 
 **Result: Hemoglobin prediction relative error < 8.6%**
-
-### 2.4 Repository Structure
-
-```
-AnemiaAwell-V1.0/
-├── data_csv/          # PPG signal datasets and clinical data
-├── model/             # Trained hemoglobin prediction models
-├── scipyh_filter/     # Signal processing and filtering algorithms
-├── main_headless.py   # Headless inference pipeline
-├── precdict.py        # Core prediction module
-├── new_data_get.py    # Data acquisition and preprocessing
-├── train.py           # Model training scripts
-└── test.py            # Evaluation and testing
-```
 
 ---
 
