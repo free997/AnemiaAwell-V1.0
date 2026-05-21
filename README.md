@@ -49,17 +49,6 @@ AnemiaAwell V1.0 is a prototype device consisting of two core modules:
 - **Noise Mitigation** — Multi-window weighted fitting filter algorithm to suppress baseline drift
 - **Biomarker Screening** — Novel nearest-neighbor correlation coefficient method extracts core PPG features correlated with hemoglobin levels
 - **Prediction Model** — Nonlinear regression model for hemoglobin concentration estimation
-
-### 2.3 Clinical Validation
-
-A small-scale clinical validation was completed using:
-
-- **~200 participants** at Chongqing Ninth People's Hospital
-- PPG signals paired with venous blood routine test data
-- Additional calibration via open-access datasets
-
-**Result: Hemoglobin prediction relative error < 8.6%**
-
 ---
 
 ## 3. Future Development — AnemiaAwell V2.0
