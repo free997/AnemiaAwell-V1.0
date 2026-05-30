@@ -10,7 +10,7 @@
 
 ## Demo Video
 
-> 🎥 *Video placeholder — a demonstration video covering PPG-based anemia detection principles, AnemiaAwell V1.0 overview, and future directions will be added here.*
+> 🎥 *a demonstration video covering PPG-based anemia detection principles, AnemiaAwell V1.0 overview, and future directions.*
 
 ---
 
